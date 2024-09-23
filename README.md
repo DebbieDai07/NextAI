@@ -38,9 +38,17 @@ To run the server, navigate to the server directory:
 ```
 cd server
 ```
+Install the dependencies:
+```
+node server.js
+```
 Then Run
 ```
 node server.js
+```
+Or to run the server and front-end all together:
+```
+npm run dev
 ```
 
 
